@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Aug 14 23:53:51 CEST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0182-9e59-551a-00001f687cb0 
+on database directory C:\Users\Mroczny Pan\eclipse-workspace\NewColors\newcolor with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@bebdb06 
+Loaded from file:/C:/Users/Mroczny%20Pan/eclipse-workspace/NewColors/src/libs/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.3+7
+user.dir=C:\Users\Mroczny Pan\eclipse-workspace\NewColors
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
